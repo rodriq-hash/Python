@@ -10,4 +10,4 @@ print(counties[3])
 print(counties[2:])
 
 # 2. print from index 2 upto index 5 
-print(counties[2:5])
+print(counties[2:5]) 

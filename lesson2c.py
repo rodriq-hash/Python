@@ -7,7 +7,7 @@ person ={
     "salary"  :  5000
 }
 #  show output 
-print(person)
+print(person) 
 # access the key value 
 # 1. age 
 print(person["Age"])
